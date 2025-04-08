@@ -33,7 +33,7 @@ To run this project locally:
   
 - **API Endpoint**: You can query books using various parameters such as title, author, or language. The API is designed to be straightforward to use and offers a variety of ways to filter and explore books. For more details on the API's capabilities, visit the [Gutendex API Documentation](https://gutendex.com/docs/). 
 
-In project : "https://gutendex.com/books"
+- In project : "https://gutendex.com/books"
 
 - **Project Usage**: The app calls the API to fetch book data without requiring an API key, as the Gutendex API is free and open to the public. Simply interact with the API using its endpoints to retrieve book information and display it in your app.
 
