@@ -86,7 +86,7 @@ To run this project locally:
 ## App Icon
 
 <p align="center">
-  <img src="ProjectOutputs/Snapshots/appIcon.png" alt="App Icon" width="30%" />
+  <img src="ProjectOutputs/Snapshots/appIcon.jpg" alt="App Icon" width="30%" />
 </p>
 <p align="center">
   *The app icon reflects the modern and book-centric theme of the Book Keeper app.*
