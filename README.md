@@ -1,6 +1,6 @@
 <h1 align="center">Book Keeper - iOS App</h1>
 
-**Book Keeper** is a sleek iOS app in Swift UI designed to help you discover and manage a wide variety of public domain books. The app fetches book data from the [Gutendex API](https://gutendex.com/), allowing you to browse, view detailed information, and even download or open books directly on your device. It's a great way to explore the world of free, public domain literature.
+**Book Keeper** is a sleek iOS app in SwiftUI designed to help you discover and manage a wide variety of public domain books. The app fetches book data from the [Gutendex API](https://gutendex.com/), allowing you to browse, view detailed information, and even download or open books directly on your device. It's a great way to explore the world of free, public domain literature.
 
 ## Features
 
